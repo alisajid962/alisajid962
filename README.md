@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ali Sajid 👋</h1>
+<h1 align="center">Hi there, I'm Ali Sajid </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&repeat=true&lines=Hi%2C+I+am+a+Software+Engineering+student%3B+Exploring+Machine+Learning%3B+Diving+into+Computer+Vision%3B+Working+on+Natural+Language+Processing" alt="Typing SVG" />
