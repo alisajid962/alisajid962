@@ -86,7 +86,7 @@
 ### 🎓 Education
 
 **Bachelor of Science in Software Engineering** — Comsats University, Sahiwal *(2024 – 2028, Ongoing)*
-CGPA: 3.43 / 4.0 &nbsp;|&nbsp; Coursework: Machine Learning, Data Structures & Algorithms, OOP, Database Systems
+CGPA: 3.49 / 4.0 &nbsp;|&nbsp; Coursework: Machine Learning, Data Structures & Algorithms, OOP, Database Systems
 
 **FSc Pre-Engineering** — Punjab College, Chishtian *(2021 – 2023)*
 
