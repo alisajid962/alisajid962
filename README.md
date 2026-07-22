@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ali Sajid 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Machine+Learning+%26+Computer+Vision+Enthusiast;Building+AI-Powered+Real-World+Projects;Open+to+ML+%2F+SWE+Internships+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&repeat=true&lines=Hi%2C+I+am+a+Software+Engineering+student%3B+Exploring+Machine+Learning%3B+Diving+into+Computer+Vision%3B+Working+on+Natural+Language+Processing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -93,24 +93,6 @@ CGPA: 3.43 / 4.0 &nbsp;|&nbsp; Coursework: Machine Learning, Data Structures & A
 **FSc Pre-Engineering** — Punjab College, Chishtian *(2021 – 2023)*
 
 **Certifications:** Python Programming (Corvit Systems) · Python for Data Science (Udemy)
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisajid962&hide_border=true&theme=default" alt="Ali's Streak Stats" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alisajid962&theme=flat&no-frame=true&row=1&column=6" alt="Ali's Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisajid962&theme=minimal&hide_border=true" alt="Contribution Graph" width="90%"/>
-</p>
-
-> 📌 Some widgets above are hosted on free community services that occasionally go down or rate-limit. If any image shows as a broken link, just wait a bit and refresh — or remove that line if it keeps failing.
 
 ---
 
