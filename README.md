@@ -81,8 +81,6 @@
 - Interactive visual tool demonstrating BFS and DFS traversal step-by-step in real time
 - Designed to help students understand graph algorithms through dynamic visualization of node states
 
-> 💡 *Tip: link each project title above directly to its repo once you rename/organize them on your profile.*
-
 ---
 
 ### 🎓 Education
